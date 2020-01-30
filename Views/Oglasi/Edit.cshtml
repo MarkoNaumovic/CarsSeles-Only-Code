@@ -1,0 +1,90 @@
+﻿@model SlikaOglasi.Models.Oglasi
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Localization
+@using Microsoft.Extensions.Localization
+@inject IStringLocalizer<Resource> localazer
+
+@{
+    ViewData["Title"] =localazer[ "Izmena"];
+}
+
+<h1>@localazer["Izmena"]</h1>
+
+<h4>@localazer["Oglasi"]</h4>
+<hr />
+<div class="row">
+    <div class="col-md-5">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="OglasiId" />
+            <div class="form-group">
+                <label asp-for="Naslov" class="control-label"></label>
+                <input asp-for="Naslov" class="form-control" />
+                <span asp-validation-for="Naslov" class="text-danger"></span>
+
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Url" class="control-label"></label>
+                <input asp-for="Url" class="form-control" />
+                <span asp-validation-for="Url" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Marka" class="control-label"></label>
+                <input asp-for="Marka" class="form-control" />
+                <span asp-validation-for="Marka" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Model" class="control-label"></label>
+                <input asp-for="Model" class="form-control" />
+                <span asp-validation-for="Model" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Godiste" class="control-label"></label>
+                <input asp-for="Godiste" class="form-control" />
+                <span asp-validation-for="Godiste" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Motor" class="control-label"></label>
+                <input asp-for="Motor" class="form-control" />
+                <span asp-validation-for="Motor" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Snaga_Ks" class="control-label"></label>
+                <input asp-for="Snaga_Ks" class="form-control" />
+                <span asp-validation-for="Snaga_Ks" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gorivo" class="control-label"></label>
+                <input asp-for="Gorivo" class="form-control" />
+                <span asp-validation-for="Gorivo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Karoserija" class="control-label"></label>
+                <input asp-for="Karoserija" class="form-control" />
+                <span asp-validation-for="Karoserija" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Opis" class="control-label"></label>
+                <textarea asp-for="Opis" class="form-control"></textarea>
+                <span asp-validation-for="Opis" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Cena" class="control-label"></label>
+                <input asp-for="Cena" class="form-control" />
+                <span asp-validation-for="Cena" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value=@localazer["Sacuvaj"] class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">@localazer["Nazad"]</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

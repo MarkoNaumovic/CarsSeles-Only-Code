@@ -1,0 +1,40 @@
+﻿@using Microsoft.AspNetCore.Localization
+@using Microsoft.Extensions.Localization
+@using Microsoft.Extensions.DependencyInjection
+
+@inject IStringLocalizer<Resource> localazer
+@{
+    ViewData["Title"] = localazer["O nama"];
+}
+
+<h1>@localazer["O nama"]</h1>
+
+<div class="jumbotron">
+
+    <h1 class="text-center display-3"> Auto Oglasi doo</h1>
+</div>
+
+
+<div class="row">
+    <p id="p1">
+        Auto Ogdlasi doo, prodavac automobila, osnovan je 1995. godine.
+
+        Identifikacija sa vrednostima japanskog proizvođača i uočena pozitivna iskustva korisnika proizvoda ovog brenda, vodile su osnivače naše kompanije.
+
+        Naša misija je pružanje najviše vrednosti za novac svakom kupcu proizvoda Audi Korporacije.
+
+        Povećanje zastupljenosti Audi automobila na domaćem tržištu, profesionalizam i standardizacija deo su naše vizije poslovanja.
+
+        Mi smo kupcima pravi izbor pri kupovini, zaposlenima poželjan poslodavac, poslovnim subjektima pouzdan partner i društveno odgovorna kompanija.
+
+        Temeljne vrednosti našeg uspeha su kvalitet, uslužnost, poverenje, inovativnost i razumevanje potreba naših klijenata.
+
+
+    </p>
+    <div class="img-fluid">
+        <img src="~/Slika/POLOVNIAUTOMOBILIlogo.png" alt="Logo" />
+        
+    </div>
+
+
+</div>

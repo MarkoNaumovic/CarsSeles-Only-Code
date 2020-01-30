@@ -1,0 +1,65 @@
+﻿@model SlikaOglasi.Models.Kontakt
+@using Microsoft.AspNetCore.Localization
+@using Microsoft.Extensions.Localization
+@inject IStringLocalizer<Resource> localazer
+@{
+        ViewData["Title"] = localazer["Kontakt"];
+}
+
+<script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+<script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+
+<div>
+    <div class="col-md-6">
+        <div>
+            @if (ViewBag.Message == null)
+            {
+                <div>
+                    <form method="post">
+                        <div class="form-group">
+                            <label asp-for="Ime">@localazer["Ime i Prezime"]</label>
+                            <input asp-for="Ime" class="form-control" />
+                            <span asp-validation-for=@localazer["Ime i Prezime"]
+                                  class="text-muted">@localazer["Ime i Prezime"]</span>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Email">@localazer["Email"]</label>
+                            <input asp-for="Email" class="form-control" />
+                            <span asp-validation-for=@localazer["Email"]
+                                  class="text-muted">@localazer["Email"]</span>
+                        </div>
+
+                        <div class="form-group">
+                            <label asp-for="Poruka">@localazer["Poruka"]</label>
+                            <textarea rows="5" cols="15"
+                                      asp-for="Poruka" class="form-control"></textarea>
+                            <span asp-validation-for=@localazer["Poruka"]
+                                  class="text-muted">@localazer["Poruka"]</span>
+                        </div>
+                        <div>
+                            <button type="submit"
+                                    class="btn btn-success">
+                                @localazer["Posalji mail"]
+                            </button>
+                        </div>
+
+                    </form>
+                </div>
+            }
+        </div>
+
+        <div>
+            <div>
+                @if (ViewBag.Message != null)
+                {
+                    <div>@ViewBag.Message(localazer["Mail uspesno poslat"])</div>
+
+
+                }
+            </div>
+        </div>
+    </div>
+
+</div>

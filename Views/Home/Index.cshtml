@@ -1,0 +1,38 @@
+﻿@model SlikaOglasi.Models.Oglasi
+@using Microsoft.Extensions.DependencyInjection
+@using Microsoft.AspNetCore.Localization
+@using Microsoft.Extensions.Localization
+
+@inject IStringLocalizer<Resource> localazer
+
+@{
+    ViewData["Title"] =localazer["Pocetna"];
+}
+
+<div class="text-center">
+    <h1 class="display-4">@localazer["Auto Oglasi"]</h1>
+</div>
+<div class="display-1" style="text-align:center">
+    <img src="~/Slika/All-car-brand-logos1.png" alt="AllInOne" />
+</div>
+<div class="display-2">
+
+</div>
+@section style{
+    <style>
+        div.slika {
+            width: 230px;
+            border-radius: 5px;
+            border: 1px solid red;
+            padding: 10px;
+            float: left;
+            margin: 10px;
+        }
+
+            div.slika img {
+                width: 150px;
+                height: 150px;
+                margin-bottom: 10px;
+            }
+    </style>
+}

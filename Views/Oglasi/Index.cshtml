@@ -1,0 +1,69 @@
+﻿@model IEnumerable<SlikaOglasi.Models.Oglasi>
+@using Microsoft.AspNetCore.Localization
+@using Microsoft.Extensions.Localization
+@inject IStringLocalizer<Resource> localazer
+
+@{
+    ViewData["Title"] = localazer["Oglasi"];
+}
+
+<h1>@localazer["Oglasi"]</h1>
+
+<link href="~/css/StyleSheet.css" rel="stylesheet" />
+<table class="table col-md-12">
+    <thead>
+        <tr>
+
+            <th>
+                @localazer["Fotografija"]
+
+            </th>
+            <th>
+               @localazer["Naslov"]
+
+            </th>
+
+            <th>
+               @localazer["Marka"]
+            </th>
+            <th>
+                @localazer["Model"]
+            </th>
+
+            <th>
+               @localazer["Cena"]
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (Oglasi item in Model)
+        {
+            <tr>
+                <td>
+                    <img id="img1" src="@item.Url" />
+                </td>
+                <td>
+                    @item.Naslov
+                </td>
+
+                <td>
+                    @item.Marka
+                </td>
+                <td>
+                    @item.Model
+                </td>
+                <td>
+                    @item.Cena
+                </td>*
+
+                <td>
+
+                    <a asp-action="Details" asp-route-id="@item.OglasiId">@localazer["Detalji"]</a>
+
+                </td>
+            </tr>
+
+        }
+    </tbody>
+</table>

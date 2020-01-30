@@ -1,0 +1,97 @@
+﻿@model SlikaOglasi.Models.Oglasi
+@using Microsoft.AspNetCore.Identity
+@using Microsoft.AspNetCore.Localization
+@using Microsoft.Extensions.Localization
+@inject SignInManager<IdentityUser> SignInManager
+@inject UserManager<IdentityUser> UserManager
+@inject IStringLocalizer<Resource> localazer
+@{
+    ViewData["Title"] = localazer["Brisanje"];
+}
+
+<h1>@localazer["Brisanje"]</h1>
+
+<h3>@localazer["Da li zelite da obrisete?"]</h3>
+<div>
+    <h4>@localazer["Oglasi"]</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Naslov)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Naslov)
+        </dd>
+
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Marka)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Marka)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Model)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Model)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Godiste)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Godiste)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Motor)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Motor)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Snaga_Ks)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Snaga_Ks)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Gorivo)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Gorivo)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Karoserija)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Karoserija)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Opis)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Opis)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Cena)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Cena)
+        </dd>
+    </dl>
+
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="OglasiId" />
+        <input type="submit" value=@localazer["Brisanje"] class="btn btn-danger" /> |
+        <a asp-action="Index">@localazer["Nazad"]</a>
+    </form>
+
+
+
+
+
+
+
+
+</div>
