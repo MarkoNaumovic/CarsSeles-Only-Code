@@ -1,0 +1,141 @@
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.deps.json
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.runtimeconfig.json
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.runtimeconfig.dev.json
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.dll
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.pdb
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.Views.dll
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.Views.pdb
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorAssemblyInfo.cache
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorAssemblyInfo.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.AssemblyInfoInputs.cache
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.AssemblyInfo.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.TagHelpers.input.cache
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.TagHelpers.output.cache
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorCoreGenerate.cache
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorTargetAssemblyInfo.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.Views.pdb
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.dll
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.pdb
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.csproj.CopyComplete
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Create.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Delete.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Details.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Edit.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Index.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Marko\source\repos\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.deps.json
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.runtimeconfig.json
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.dll
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.pdb
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.Views.dll
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.Views.pdb
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorAssemblyInfo.cache
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorAssemblyInfo.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.AssemblyInfo.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.TagHelpers.input.cache
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.TagHelpers.output.cache
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorCoreGenerate.cache
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Create.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Delete.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Details.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Edit.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Index.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorTargetAssemblyInfo.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.Views.pdb
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.dll
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.pdb
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.csproj.CopyComplete
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\de-DE\SlikaOglasi.resources.dll
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\sr\SlikaOglasi.resources.dll
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\de-DE\SlikaOglasi.resources.dll
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\sr\SlikaOglasi.resources.dll
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.Resourse.Resource.resources
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.Resourse.Resource.de-DE.resources
+C:\Users\Marko\Desktop\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.Resourse.Resource.sr.resources
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.deps.json
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.runtimeconfig.json
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.runtimeconfig.dev.json
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.dll
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.pdb
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\de-DE\SlikaOglasi.resources.dll
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\sr\SlikaOglasi.resources.dll
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.Views.dll
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\bin\Debug\netcoreapp2.2\SlikaOglasi.Views.pdb
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.csprojAssemblyReference.cache
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.Resourse.Resource.resources
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.Resourse.Resource.de-DE.resources
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.Resourse.Resource.sr.resources
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.csproj.GenerateResource.cache
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorAssemblyInfo.cache
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorAssemblyInfo.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.AssemblyInfoInputs.cache
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.AssemblyInfo.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\de-DE\SlikaOglasi.resources.dll
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\sr\SlikaOglasi.resources.dll
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.TagHelpers.input.cache
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.TagHelpers.output.cache
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorCoreGenerate.cache
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Home\About.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Home\Contact.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Create.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Delete.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Details.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Edit.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Oglasi\Index.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.RazorTargetAssemblyInfo.cs
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.Views.pdb
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.dll
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.pdb
+C:\Users\Marko\Desktop\w1565367985_SlikaOglasiLokalizacija_40573 (2)\SlikaOglasi\SlikaOglasi\SlikaOglasi\obj\Debug\netcoreapp2.2\SlikaOglasi.csproj.CopyComplete
